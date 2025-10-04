@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /xr/
 
-Sitemap: https://nettleweb.com/sitemap.txt
+Sitemap: https://stavmb.me/sitemap.txt
